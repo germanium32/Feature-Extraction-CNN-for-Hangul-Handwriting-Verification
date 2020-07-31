@@ -8,7 +8,7 @@ Unmodified single data from each font set
 
 - (character)\_cos.txt file
 
-Cosine value of adjacent strokes of each character
+Cosine values of adjacent strokes of each character
 
 - (character)\_pad.txt file
 
